@@ -1,7 +1,7 @@
 # Hello, I'm Anna ("Ania") Supady🫡
 
 ## About Me
-I'm a Senior Quantitative Analyst with over 13 years of dynamic experience spanning diverse industries, including commercial banking, finance, fintech, cryptocurrency, credit risk, insurance, and energy sectors. My expertise encompasses developing sophisticated analytical models, leading model validation initiatives, conducting strategic quantitative analysis, and implementing advanced forecasting techniques. I excel in ensuring regulatory compliance, driving data-driven solutions, and translating complex quantitative concepts into actionable insights for C-suite executives and international audiences.
+I'm a Senior Quantitative Analyst with over 13 years of dynamic experience spanning diverse industries, including commercial banking, finance, fintech, cryptocurrency, credit risk, insurance, and energy sectors. My expertise encompasses developing sophisticated analytical models, leading model validation initiatives, conducting strategic quantitative analysis, and implementing advanced econometric techniques. I excel in ensuring regulatory compliance, leading data-driven solutions, and translating complex quantitative concepts into actionable insights for C-suite executives and international audiences.
 
 ## 🔬 Key Areas of Expertise
 - Strategic quantitative analysis and modeling
@@ -25,7 +25,7 @@ I'm a Senior Quantitative Analyst with over 13 years of dynamic experience spann
 - Survival analysis and Meta-analysis
 
 ## 📊 Data Visualization & Dashboards
-I specialize in creating **dynamic dashboards** and **insightful visualizations** that effectively communicate complex data insights. My skills include:
+I specialize in creating dynamic dashboards and insightful visualizations that effectively communicate complex data insights. My skills include:
 - Designing interactive dashboards using tools like Excel and Tableau to visualize key performance indicators.
 - Utilizing slicers and pivot tables to create dashboards that automatically update with new data.
 - Transforming raw data into compelling visual narratives that drive business decisions.
