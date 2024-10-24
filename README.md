@@ -1,7 +1,7 @@
 # Hello, I'm Anna ("Ania") Supady🫡
 
 ## About Me
-I'm a Senior Quantitative Analyst with over 13 years of dynamic experience spanning diverse industries, including commercial banking, finance, fintech, cryptocurrency, credit risk, insurance, and energy sectors. My expertise encompasses developing sophisticated analytical models, leading model validation initiatives, conducting strategic quantitative analysis, and implementing advanced econometric techniques. I enjoy ensuring conceptual soundness; — matching real-world business challengesthe with the right academic solutions, leading data-driven strategies, and translating complex quantitative findings derived from fun visualisations, into actionable insights for business executives; - turning numbers into clear narratives!
+I'm a Senior Quantitative Analyst with over 13 years of dynamic experience spanning diverse industries, including commercial banking, finance, fintech, cryptocurrency, credit risk, insurance, and energy sectors. My expertise encompasses developing sophisticated analytical models, leading model validation initiatives, conducting strategic quantitative analysis, and implementing advanced econometric techniques. I enjoy ensuring conceptual soundness; — matching real-world business challenges with the right academic solutions, leading data-driven strategies, and translating complex quantitative findings derived from fun visualisations, into actionable insights for business executives; - turning numbers into clear narratives!
 
 ## 🔬 Key Areas of Expertise
 - Strategic quantitative analysis and modeling
