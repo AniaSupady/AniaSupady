@@ -24,10 +24,10 @@ I'm a Senior Quantitative Analyst with over 13 years of dynamic experience spann
 - MCMC and Bayesian methods
 - Survival analysis and Meta-analysis
 
-## 📊 Data Visualization & Dashboards
+## 📊 Dynamic Data Visualization & Dashboards
 I specialize in creating dynamic dashboards and insightful visualizations that effectively communicate complex data insights. My skills include:
 - Designing interactive dashboards using tools like Excel and Tableau to visualize key performance indicators.
-- Utilizing slicers and pivot tables to create dashboards that automatically update with new data.
+- Utilizing action buttions, sliders and complex formulas to create dynamic dashboards that automatically update with new data.
 - Transforming raw data into compelling visual narratives that drive business decisions.
   
 ## 🚀 Key Skills
@@ -40,7 +40,7 @@ I specialize in creating dynamic dashboards and insightful visualizations that e
 - Fostering collaborative relationships across departments
 
 ## 🛠️ Tools & Technologies
-- Python, SAS, R
+- Python,
 - Excel (including advanced dashboard features)
 - Tableau
 - SQL
@@ -53,7 +53,6 @@ I specialize in creating dynamic dashboards and insightful visualizations that e
 - Cryptocurrency Trading
 - Credit Risk
 - Insurance
-- Manufacturing
 - Energy
 
 ## 📊 What I Do
