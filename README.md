@@ -61,8 +61,4 @@ I specialize in creating dynamic dashboards and insightful visualizations that e
 - Conduct advanced forecasting and econometric modeling.
 - Perform sensitivity and scenario analyses for business continuity.
 - Transform complex data into actionable business intelligence through dynamic dashboards.
-  
-## 📫 Let's Connect
-I'm always eager to explore new challenges and collaborations in quantitative analysis, forecasting, model risk management, and data-driven strategies across various sectors.
 
-[[LinkedIn](https://www.linkedin.com/in/aniasupady/)] | ania.b.supady@gmail.com
