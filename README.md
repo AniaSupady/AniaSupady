@@ -33,6 +33,8 @@ I specialize in creating dynamic dashboards and insightful visualizations that e
 [Dash App: PCE Inflation Rate Correlation/Variable Selection](https://www.linkedin.com/posts/aniasupady_web-python-dash-activity-7258949472515153921-UpIw?utm_source=share&utm_medium=member_desktop)
 
 [Dash App: PCE Inflation Rate Granger Causality](https://www.linkedin.com/posts/aniasupady_economic-inflation-causality-activity-7262984244774219777-uurV?utm_source=share&utm_medium=member_desktop)
+
+[Dash App: Granger Causality Chart](https://www.linkedin.com/posts/aniasupady_granger-causality-chart-activity-7261146572980117504-gMWN?utm_source=share&utm_medium=member_desktop)
   
 ## 🚀 Key Skills
 - Leading global teams in data-driven solution delivery
