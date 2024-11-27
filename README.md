@@ -30,8 +30,9 @@ I specialize in creating dynamic dashboards and insightful visualizations that e
 - Utilizing action buttions, sliders and complex formulas to create dynamic dashboards that automatically update with new data.
 - Transforming raw data into compelling visual narratives that drive business decisions.
 
-          **[Dash App: PCE Inflation Rate Correlation/Variable Selection](https://www.linkedin.com/posts/aniasupady_web-python-dash-activity-7258949472515153921-UpIw?utm_source=share&utm_medium=member_desktop)**  
-          **[Dash App: PCE Inflation Rate Granger Causality](https://www.linkedin.com/posts/aniasupady_economic-inflation-causality-activity-7262984244774219777-uurV?utm_source=share&utm_medium=member_desktop)**
+[Dash App: PCE Inflation Rate Correlation/Variable Selection](https://www.linkedin.com/posts/aniasupady_web-python-dash-activity-7258949472515153921-UpIw?utm_source=share&utm_medium=member_desktop)
+
+[Dash App: PCE Inflation Rate Granger Causality](https://www.linkedin.com/posts/aniasupady_economic-inflation-causality-activity-7262984244774219777-uurV?utm_source=share&utm_medium=member_desktop)
   
 ## 🚀 Key Skills
 - Leading global teams in data-driven solution delivery
