@@ -1,4 +1,4 @@
-# Hello, I'm Ania Supady🫡
+# Hello, I'm Ania B Supady🫡
 
 ## About Me
 I'm a Senior Quantitative Analyst with over 13 years of dynamic experience spanning diverse industries, including commercial banking, finance, fintech, cryptocurrency, credit risk, insurance, and energy. My expertise encompasses developing sophisticated analytical models, leading model validation initiatives, conducting strategic quantitative analysis, and implementing advanced econometric techniques. I enjoy ensuring conceptual soundness—matching real-world business challenges with the right academic solutions, leading data-driven strategies, and translating complex quantitative findings derived from fun visualizations into actionable insights for business executives—turning numbers into clear narratives!
@@ -29,6 +29,9 @@ I specialize in creating dynamic dashboards and insightful visualizations that e
 - Designing interactive dashboards using tools like Excel and Tableau to visualize key performance indicators.
 - Utilizing action buttions, sliders and complex formulas to create dynamic dashboards that automatically update with new data.
 - Transforming raw data into compelling visual narratives that drive business decisions.
+
+      ** [Dash App PCE Inflation Rate Correlation/Variable Selection](https://www.linkedin.com/posts/aniasupady_web-python-dash-activity-7258949472515153921-UpIw?utm_source=share&utm_medium=member_desktop)
+      ** [Dash App PCE Inflation Rate Granger Causality](https://www.linkedin.com/posts/aniasupady_economic-inflation-causality-activity-7262984244774219777-uurV?utm_source=share&utm_medium=member_desktop)
   
 ## 🚀 Key Skills
 - Leading global teams in data-driven solution delivery
