@@ -27,7 +27,7 @@ I'm a Senior Quantitative Analyst with over 13 years of dynamic experience spann
 ## 📊 Dynamic Data Visualization & Dashboards
 I specialize in creating dynamic dashboards and insightful visualizations that effectively communicate complex data insights. My skills include:
 - Designing interactive dashboards using tools like Excel and Tableau to visualize key performance indicators.
-- Utilizing action buttions, sliders and complex formulas to create dynamic dashboards that automatically update with new data.
+- Utilizing action buttons, sliders and complex formulas to create dynamic dashboards that automatically update with new data.
 - Transforming raw data into compelling visual narratives that drive business decisions.
 
 [Dash App: PCE Inflation Rate Correlation/Variable Selection](https://www.linkedin.com/posts/aniasupady_web-python-dash-activity-7258949472515153921-UpIw?utm_source=share&utm_medium=member_desktop)
